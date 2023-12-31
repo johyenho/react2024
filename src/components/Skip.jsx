@@ -2,7 +2,9 @@ import React from 'react'
 
 const Skip = () => {
   return (
-    <div>Skip</div>
+    <div id='skip'>
+      <a href="/">skip</a>
+    </div>
   )
 }
 
