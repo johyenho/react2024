@@ -38,5 +38,6 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/johyenho/react_2024.git
+git remote add origin https://github.com/johyenho/react2024.git
+                      https://github.com/johyenho/react2024.git
 git push -u origin main
